@@ -24,5 +24,4 @@ You may following pages useful:<br>
 4.  [Structure](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/Structure)<br>
 5.  [Libraries](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/Libraries)<br>
 6.  [How to extend](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/How-to-extend)<br>
-7.  [Authors](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/Authors)<br>
 8.  [Related Projects](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/Related-Projects)<br>

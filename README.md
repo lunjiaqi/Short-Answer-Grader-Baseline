@@ -4,7 +4,7 @@ Short-Answer-Grader-Baseline
 This project is the baseline we implemented for short answer grading using NLP techniques. This project is simply a re-implementation of the baseline provided in the following paper and used in SemEval-2013 Task 7 for Joint Student Response Analysis. 
 
 
-yroslava O. Dzikovska, Rodney D. Nielsen, Chris Brew. "Towards Effective Tutorial Feedback for Explanation Questions: A Dataset and Baselines." In Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2012). Jun 4-6, 2012. Montreal, Canada. 
+Myroslava O. Dzikovska, Rodney D. Nielsen, Chris Brew. "Towards Effective Tutorial Feedback for Explanation Questions: A Dataset and Baselines." In Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2012). Jun 4-6, 2012. Montreal, Canada. 
 
 
 More information about the task can be found in the following link:

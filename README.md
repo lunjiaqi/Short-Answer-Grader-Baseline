@@ -1,6 +1,12 @@
 Short-Answer-Grader-Baseline
 ============================
 
+Project Team Members:
+- Jaromir Savelka
+- Fattane Jabbari
+- Zhipeng Luo
+- Salim Malakouti
+
 This project is the baseline we implemented for short answer grading using NLP techniques. This project is simply a re-implementation of the baseline provided in the following paper and used in SemEval-2013 Task 7 for Joint Student Response Analysis. 
 
 
@@ -25,3 +31,5 @@ You may following pages useful:<br>
 5.  [Libraries](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/Libraries)<br>
 6.  [How to extend](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/How-to-extend)<br>
 8.  [Related Projects](https://github.com/salimm/Short-Answer-Grader-Baseline/wiki/Related-Projects)<br>
+
+
